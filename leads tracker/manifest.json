@@ -1,0 +1,13 @@
+
+{
+    "manifest_version" : 3,
+    "version" : "1.0",
+    "name" : "LEADS_TRACKER",
+    "action":{
+        "default_popup":"extension.html",
+        "deafault_icon":"usd.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
